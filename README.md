@@ -1,4 +1,5 @@
 # CoinPulse-Official-API-Docs
 
 
-OFFICIAL DOCUMENTATION WILL BE ADDED AFTER COINPULSE IS LAUNCHED IN THE SECOND QUARTER OF 2018
+This repository is to store the links to all our publicly available APIs. 
+
